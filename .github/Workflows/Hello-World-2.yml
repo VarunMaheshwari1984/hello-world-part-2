@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
-        run: echo "Hello, GitHub Actions World!"
+        run: echo "Hello, VARUN GitHub Actions World!"
       - name: Print date
         run: date
